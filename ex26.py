@@ -1,3 +1,5 @@
+# Exercise 26 "Congratulations, take a test!"
+
 print("How old are you?", end=' ')
 age = input()
 print("How tall are you?", end=' ')
