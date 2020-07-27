@@ -1,3 +1,5 @@
+# Exercise 21 "Functions can return something"
+
 def add (a, b):
     print (f"ADDING {a} + {b}")
     return a + b
