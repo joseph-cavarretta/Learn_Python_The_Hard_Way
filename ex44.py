@@ -1,3 +1,5 @@
+# Exercise 44 "Inheretance versus composition"
+
 class Parent(object):
 
     def override(self):
