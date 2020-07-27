@@ -1,3 +1,5 @@
+# Exercise 42 "Is-a, has-a, objects, and classes"
+
 ## Animal is-a object
 class Animal(object):
 
