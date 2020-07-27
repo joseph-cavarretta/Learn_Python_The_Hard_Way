@@ -1,3 +1,5 @@
+# Exercise 36 "Designing and debugging"
+
 from sys import exit
 
 def start():
