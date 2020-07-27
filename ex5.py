@@ -1,4 +1,4 @@
-Exercise 5 "More variables and printing"
+# Exercise 5 "More variables and printing"
 
 name = 'Joe'
 age = 31
