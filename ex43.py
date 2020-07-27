@@ -1,3 +1,5 @@
+# Exercise 43 "Basic object-oriented analysis and design"
+
 from sys import exit
 from random import randint
 from textwrap import dedent
