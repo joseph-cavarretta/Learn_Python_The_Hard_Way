@@ -45,13 +45,13 @@ class person(object):
 
 
 ## Employee is-a instance of person
-#class Employee(person):
+class Employee(person):
 
-#    def __init__(self, name, salary):
+    def __init__(self, name, salary):
         ## class employee has-a name
-#        super(Employee, self).__init__(name)
+        super(Employee, self).__init__(name)
         ## class employee is-a person that has-a attribute salary
-#        self.salary = salary
+        self.salary = salary
 
 ## class fish is-a object
 class Fish(object):
@@ -87,10 +87,10 @@ person.introduce(mary)
 mary.pet = satan
 
 ## frank is-a Employee with salary 120000
-#frank = Employee("Frank", 120000)
+frank = Employee("Frank", 120000)
 
 # frank has-a pet
-#frank.pet = rover
+frank.pet = rover
 
 ## flipper is-a fish
 flipper = Fish("white", "small")
