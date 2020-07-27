@@ -1,3 +1,5 @@
+# Exercise 40 Part 2 "Modules, classes, and objects"
+
 mystuff = {'apple' : "I AM APPLES! "}
 print (mystuff['apple'])
 
