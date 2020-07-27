@@ -1,3 +1,5 @@
+# Exercise 31 "Making decisions"
+
 print ("""You enter a dark room with 3 doors.
 Do you go through door #1 , #2, or #3?""")
 
