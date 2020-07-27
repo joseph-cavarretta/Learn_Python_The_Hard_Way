@@ -1,3 +1,5 @@
+# Exercise 16 "Reading and writing files"
+
 from sys import argv
 
 script, filename = argv
