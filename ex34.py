@@ -1,3 +1,5 @@
+# Exercise 34 "Accessing elements of lists"
+
 animals = ["bear", "python", "peacock", "kangaroo", "whale", "platypus"]
 
 print (f"the animal at 1 = {animals[1]}")
