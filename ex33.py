@@ -1,3 +1,5 @@
+# Exercise 33 "While loops"
+
 i = 0
 numbers = []
 
