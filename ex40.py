@@ -1,3 +1,5 @@
+# Exercise 40 "Modules, classes, and objects"
+
 class Song(object):
 
     def __init__(self, lyrics):
