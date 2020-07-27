@@ -1,7 +1,7 @@
 # Exercise 31 "Making decisions"
 
-print ("""You enter a dark room with 3 doors.
-Do you go through door #1 , #2, or #3?""")
+print ("""You enter a dark room with 2 doors.
+Do you go through door #1 or #2?""")
 
 door = input ("> ")
 
@@ -35,21 +35,5 @@ elif door == "2":
     else:
         print ("The insanity rots your eye into a pool of muck.")
         print ("Good job!.")
-elif door == "3":
-    print ("What's good baby boi?")
-    print ("Shawtay?")
-    print ("Pimpin?")
-    print ("Gucci?")
-
-    whats_good = input("> ")
-
-    if whats_good == "Shawtay":
-        print ("Oh shyyyyyt")
-    elif whats_good == "Pimpin":
-        print ("Aye")
-    elif whats_good == "Gucci":
-        print ("Prada")
-    else:
-        print ("non-kewl")
 else:
     print ("You stumble and fall on a knife and die. Good job!")
