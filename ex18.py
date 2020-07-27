@@ -1,3 +1,5 @@
+# Exercise 18 "Names, variables, code, functions"
+
 def print_two(*args):
     arg1, arg2 = args
     print (f"arg1: {arg1}, arg2: {arg2}")
