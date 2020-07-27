@@ -1,3 +1,5 @@
+# Exercise 19 Part 2 "Functions and variables"
+
 def training (miles_run, squats_performed):
     training = miles_run + squats_performed
     print (f"I have run {miles_run} miles!")
