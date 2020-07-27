@@ -1,4 +1,4 @@
-# Exercise 1 "Numbers and math"
+# Exercise 3 "Numbers and math"
 
 print ("I will now count my chickens")
 print ("Hens", 25.0 + 30.5 / 6.7)
