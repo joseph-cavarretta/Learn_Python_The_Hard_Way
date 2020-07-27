@@ -1,3 +1,5 @@
+# Exercise 35 "Branches and functions"
+
 from sys import exit
 
 def gold_room ():
