@@ -1,3 +1,5 @@
+# Exercise 37 "Symbol review"
+
 x = 6
 y = 6
 if x and y == 6:
