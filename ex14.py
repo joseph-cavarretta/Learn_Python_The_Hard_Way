@@ -1,3 +1,5 @@
+# Exercise 14 "Prompting and passing"
+
 from sys import argv
 script, user_name, age = argv
 prompt = '>> '
