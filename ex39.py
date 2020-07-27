@@ -1,4 +1,6 @@
-# create a mapping of state to abbreviation
+#Exercise 39 "Dictionaries, oh lovely dictionaries"
+
+#create a mapping of state to abbreviation
 states = {
     'Oregon' : 'OR',
     'Florida' : 'FL',
@@ -56,11 +58,11 @@ state = states.get('Texas')
 if not state:
     print ("Sorry, no texas")
 
-# get a city with a default value
+#get a city with a default value
 city = cities.get('TX', 'does not exist')
 print (f"The city for the state 'TX' is: {city}")
 
-# do your own area
+#do your own area
 colorado = {
     'b' : 'boulder',
     'd' : 'denver',
