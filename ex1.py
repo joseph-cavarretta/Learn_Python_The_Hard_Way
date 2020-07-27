@@ -1,3 +1,5 @@
+# Exercise 1 "A good first program"
+
 print ("I will now count my chickens")
 print ("Hens", 25.0 + 30.5 / 6.7)
 print ("roosters", 100 - 25 * 3 % 4)
